@@ -5,5 +5,5 @@ week2 : finally mastered "git rm" kind of easy tbh
 week3 : will be doing just 1 example only per lesson(for conserving time)
         nothing learned as much related to git.
         also I want to know how to revert back the progress(surely will learn later)
-        1 a.m. / 31.01.2025
+        1 a.m. / 31.01.2025.
 Work In Progress : -> -> ->
